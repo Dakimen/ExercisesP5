@@ -1,24 +1,4 @@
-"""This file contains classes used to display a full name.
-
-MyClass:
-Class instance for storing and displaying a full name.
-
-    Args:
-    full_name (string): containing a full name
-
-    Methods:
-    display_name():
-    Display a full name stored in class instance.
-
-OtherClass:
-    Class instance for storaing and displaying a full name.
-    Args:
-    first_name (string): containing a first name
-    name (string): containing a last name
-
-    Methods:
-    Display a full name by assembling it from first and last name
-"""
+"""This file contains exercise 4."""
 
 
 class MyClass:
