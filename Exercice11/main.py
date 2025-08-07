@@ -80,10 +80,3 @@ class BankAccount:
         """Display account holder and balance."""
         print(f"\nAccount Holder: {self.account_holder}")
         print(f"Balance: {self.balance}\n")
-
-
-my_account = BankAccount("Dmitry", 10)
-my_account.display_balance()
-my_account.deposit(50)
-my_account.withdraw(30)
-my_account.display_balance()
