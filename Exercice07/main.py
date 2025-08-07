@@ -1,4 +1,4 @@
-## Écrivez votre code ici !
+"""Ce fichier contient l'exercice 7."""
 
 
 def square(number):

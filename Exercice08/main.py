@@ -1,3 +1,6 @@
+"""Ce fichier/module contient l'exercice 8."""
+
+
 def log_decorator(func):
     def wrapper():
         print("Message avant l'execution du fonction")
